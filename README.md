@@ -44,7 +44,7 @@ r2dbc
 5. Create the graphql schema types query and mutations enums etc. in resources folder
 6. Add the sql table schema in resources folder
 7. Now Create the model controller repository and service packages and bind them in the main GraphQL application
-8. Run the application and open Altair graphQL application on Chrome extension and the url is:  
+8. Run the application and open Altair graphQL application on Chrome extension and pass your url:  
    http://localhost:8080/graphql
     you will be able to see available query and mutations like given below
     ![Alt text](images/docs.JPG?raw=true "Title")
