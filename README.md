@@ -1,8 +1,8 @@
 # Getting started with GraphQL in spring boot
-##About
+## About
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-####key features:
+#### key features:
 
 => Ask for what you need, get exactly that
 
@@ -28,7 +28,7 @@ key areas to explore during implementations:
 
 
 
-#Summary of Designing a basic API application
+# Summary of Designing a basic API application
 
 ## Dependencies
 spring web,
@@ -36,7 +36,7 @@ graphql-java,
 h2database,
 r2dbc
 
-##Steps taken
+## Steps taken
 1. we will open https://start.spring.io/
 2. add the dependencies
 3. click generate at the bottom download it and then extract the zip
